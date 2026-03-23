@@ -1,0 +1,9 @@
+Flask
+Flask-JWT-Extended
+SQLAlchemy
+psycopg2
+marshmallow
+requests
+PyPDF2
+Babel
+bcrypt
